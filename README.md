@@ -31,21 +31,21 @@ have carpooled.
 
 The inputs will be: 
    -	Employee’s general information: 
-      o	Employee’s name
-      o	Employee’s billing rate
-      o	The day of the week the employee worked
+         Employee’s name
+      	Employee’s billing rate
+      	The day of the week the employee worked
       
    -	Personal Car information: 
-      o	# of miles the employee drove
-      o	Number of additional employees
-      o	Names of additional employees 
+      	# of miles the employee drove
+      	Number of additional employees
+      	Names of additional employees 
       
    -	Ride Service information:
-      o	Ride service name
-      o	Ride service cost 
+      	Ride service name
+      	Ride service cost 
       
    -	Service Hours information: 
-      o	# of employee’s worked hours 
+      	# of employee’s worked hours 
       
 The output will be displayed according to the selection from the menu; either a report of all billable items, 
 the total cost of billable service, or names of drivers and employees who carpooled.
